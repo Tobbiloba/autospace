@@ -1,0 +1,13 @@
+node_modules
+build
+dist
+.next
+.env
+
+
+.nx/cache
+
+apps/web/.env.example
+apps/web-admin/.env.example
+apps/web-valet/.env.example
+apps/web-manager/.env.example
